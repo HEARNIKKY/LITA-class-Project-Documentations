@@ -17,5 +17,5 @@ Documentation of my project with the ongoing LITA CLASS at the Incubator Hub
    3. using the Pivot table for summarization and analysing
  - SQL- structured Quering for extracting key insight e.g retrieving
  - Power BI- creating Dashboard for Data Visualization
- - Github- for portfolio building
+ - Github- for portfolio building.
  
